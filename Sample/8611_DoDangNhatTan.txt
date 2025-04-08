@@ -6,4 +6,4 @@
 	+ Tạo/sửa/xoá thông tin bác sĩ
 	+ Phân loại chuyên môn (mụn, nám, da liễu tổng quát,…)
 - Quá trình: In progress
-- Mức độ hoàn thành: 80%
+- Mức độ hoàn thành: 90%
